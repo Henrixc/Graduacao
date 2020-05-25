@@ -1,0 +1,45 @@
+<html lang="pt-br">
+<head>
+        <meta charset="UTF-8"/>
+        <title>Ema</title>
+        <style>
+            * {
+                font-family: Arial, Helvetica, sans-serif;
+            }
+        </style>
+</head>
+
+<body>
+   <header>
+      <hgroup>
+         <h1>Ema</h1>
+         <p><i>Rhea americana</i></p>
+      </hgroup>
+   </header>
+   <article>
+      <a data-flickr-embed="true" href="https://www.flickr.com/photos/wagner-machado-carlos-lemes/5140897360" title="Ema ( Rhea Americana)"><img src="https://live.staticflickr.com/1185/5140897360_25479f581a_c.jpg" width="565" height="800" alt="Ema ( Rhea Americana)"></a>
+      <h2>Características</h2>
+      <pre>
+         É a maior e mais pesada ave do continente americano, com o macho adulto podendo chegar até 1,70 m de altura e 36kg.
+         Contudo, não é uma ave que voa.
+         Apresenta um risco moderado de extinção em Santa Catarina.
+      </pre>
+      <h2>Hábito</h2>
+      <pre>
+         A ema é uma ave corredora que ocorre em paisagens abertas da América do Sul, do Brasil até o sul da Argentina. 
+         Vive em campos naturais, cerrados e áreas de uso agropecuário (em especial pastos e plantios de soja), mas apenas onde não é alvo de perseguição. 
+         Desaparece em locais em que a população humana é mais densa. 
+         Como dito anteriormente, somente usa as suas grandes asas para equilibrar-se e mudar de direção ao correr. 
+         Quando faz muito calor, passa o dia dormindo e sai à noite para alimentar-se. Bebe pouca água. 
+         Quando algo muito próximo a assusta, abaixa o pescoço e afasta-se de repente num ziguezague ligeiro, erguendo as asas e inflando a plumagem.
+      </pre>
+   </article>
+   <footer>
+      <h3>Bibliografia</h3>
+      <p>https://pt.wikipedia.org/wiki/Ema</p>
+      <p>https://www.wikiaves.com.br/wiki/ema</p>
+      <p>https://www.flickr.com/photos/wagner-machado-carlos-lemes/5140897360</p>
+      <h3>Henrique de Sá Tschumi</h3>
+      <p>25/5/2020</p>
+   </footer>
+</body>
